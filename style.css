@@ -1,0 +1,62 @@
+body {
+    position: absolute;
+    align-content: center;
+    background-color: black;
+}
+
+.heading{
+    color: rgb(255, 0, 0);
+    margin-left: 580px;
+  
+}
+
+.form{
+    margin-left: 250px;
+    margin-top: 50px;
+    border-style: solid;
+    position: absolute;
+    width: 1004px;
+    height: 637px;
+    background: #F1F1F1;
+    border-radius: 25px;
+   
+}
+
+.name, .email, .phone, .study{
+    
+    margin-left: 25px;
+    font-size: 25px;
+    line-height: 50px;
+  
+}
+
+
+#name, #email, #phone{
+ 
+    margin-left: 20px;
+    font-size: 20px;
+}
+
+#circle{
+    margin-left: 30px;
+    transform: scale(1.5);
+}
+
+ .std{
+     font-size: 30px;
+ }
+
+#btn{
+    
+   transform: scale(1.2);
+   margin-left: 450px;
+   margin-top: 100px;
+   background-color: #ececec; 
+ 
+}
+
+
+#btn:hover{
+    background-color: rgba(58, 209, 12, 0.911);
+    cursor: pointer;
+}
