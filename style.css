@@ -7,6 +7,8 @@ body {
 .heading{
     color: rgb(255, 0, 0);
     margin-left: 580px;
+    width: 100%;
+    height: auto;
   
 }
 
