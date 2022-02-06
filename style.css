@@ -2,6 +2,9 @@ body {
     position: absolute;
     align-content: center;
     background-color: black;
+     width: 100%;
+    height: auto;
+    margin: auto;
 }
 
 .heading{
